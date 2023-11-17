@@ -1,6 +1,9 @@
 Đường dẫn biểu mẫu điền dữ liệu : https://forms.gle/BvyFG1NGDm7Zb3Td6
 
 
+Hướng dẫn tạo API google sheet : https://thinhvu.com/2021/05/27/doc-va-xuat-du-lieu-google-sheets-voi-python/
+
+
 để tạo forms hãy tạo theo mẫu trong file pdf trong thư mục FILE
 
 
@@ -11,3 +14,5 @@ sửa sheet name và sheet id bằng tên trang tính đã được liên kết 
 
 
 không cần sửa scope
+
+
