@@ -3,7 +3,7 @@ import pandas as pd
 from oauth2client.service_account import ServiceAccountCredentials
 import Mapping
 # Đường dẫn đến tệp JSON chứa thông tin xác thực
-json_path = 'D:/hoctap/Nam4/HocMay/beaming-ring-400814-ccbeab309282.json'
+json_path = 'beaming-ring-400814-ccbeab309282.json'
 
 # Phạm vi (scope) API
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
